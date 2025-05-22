@@ -42,10 +42,10 @@ int main(){
 //lendo as informaçoes da carta 2
       printf("Carta 2 \n");
 
-        printf("Digite seu estado: \n");
+        printf("Digite uma letra de A-H representando seu estado: \n");
         scanf("%s", &estado2);
 
-        printf("Digite o codigo da carta: \n");
+        printf("Digite o codigo da carta(letra seguida de um numero): \n");
         scanf("%s", &codigo2);
 
         printf("Digite o nome da cidade: \n");

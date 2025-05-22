@@ -25,7 +25,7 @@ int main(){
         scanf("%s", &codigo1);
 
         printf("Digite o nome da cidade: \n");
-        fgets(nome1, 30, stdin );
+        scanf("%s", &nome1);
 
         printf("Digite a área: \n");
         scanf("%f", &area1);
@@ -49,7 +49,7 @@ int main(){
         scanf("%s", &codigo2);
 
         printf("Digite o nome da cidade: \n");
-        fgets(nome2, 30, stdin );
+        scanf("%s", &nome2);
 
         printf("Digite a área: \n");
         scanf("%f", &area2);
